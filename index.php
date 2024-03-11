@@ -18,7 +18,7 @@
         <div class="img">
             <img class="mainImage" src="https://raw.githubusercontent.com/bosunia/df/main/dp.jpg" alt="image">
         </div>
-        <h1> Hacked By Mr D301L</h1>
+        <h1> MR D301L IS IN YOUR MACHINE</h1>
         <hr class="hr">
 
         <div class="container">
