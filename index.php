@@ -16,7 +16,7 @@
 
 
         <div class="img">
-            <img class="mainImage" src="/dp.jpg" alt="image">
+            <img class="mainImage" src="https://raw.githubusercontent.com/bosunia/df/main/dp.jpg" alt="image">
         </div>
         <h1> Hacked By Mr D301L</h1>
         <hr class="hr">
