@@ -25,7 +25,7 @@
             <h2 class="teamName"> <span> Wroning </span> For Admin </h2>
             <p class="text1">
                
-           Mr admin stop using null script if you are not enough exprat about code  
+           Mr admin if you are not enough exprat about code don't came back online  
 
             <br><p style="color: red;" >I did not make any damage but it's a warning for you so take it seriously</p>
     
