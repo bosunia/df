@@ -1,1 +1,4 @@
-<meta http-equiv="refresh" content="delay_time; URL=https://geteducate.xyz/" />
+<?php
+   header("Location: https://geteducate.xyz/");
+   exit();
+?>
